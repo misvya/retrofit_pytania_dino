@@ -1,0 +1,25 @@
+{
+  "pytania":[
+    {
+      "tresc":"Jaki jest największy dinozaur",
+      "odp_a":"Brachiozaur",
+      "odp_b":"Argentynozaur",
+      "odp_c":"Tyranozaur",
+      "poprawna":1
+    },
+    {
+      "tresc":"Jaki dinozaur potrafi latać",
+      "odp_a":"Pterozaury",
+      "odp_b":"Dimetrodon",
+      "odp_c":"Xixianykus",
+      "poprawna":0
+    },
+    {
+      "tresc":"Jaki dinozaur jest najszybszy",
+      "odp_a":"Tyranozaur",
+      "odp_b":"Stegozaur",
+      "odp_c":"Dromiceiomimus ",
+      "poprawna":2
+    }
+  ]
+}
