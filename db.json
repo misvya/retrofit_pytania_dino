@@ -1,5 +1,4 @@
-{
-  "pytania":[
+[
     {
       "tresc":"Jaki jest największy dinozaur",
       "odp_a":"Brachiozaur",
@@ -22,4 +21,4 @@
       "poprawna":2
     }
   ]
-}
+
